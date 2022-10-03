@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: darkturquoise;
+}
+
+img {
+    width: 50%;
+    border-radius: 1em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -38,3 +38,11 @@
 - Be deployed on Surge (We will cover this on Monday of project week)
 
 ---
+
+### **Credits**
+
+- [CodePen](https://codepen.io/your-work)
+- [Stackoverflow](<https://stackoverflow.com/questions/22852071/what-does-beginpath-and-closepath-do-exactly#:~:text=beginPath()%20clears%20the%20current,they%20are%20filled%20or%20stroked.>)
+- [W3Schools](https://www.w3schools.com/jsref/jsref_join.asp)
+
+- [W3Schools canvas Arc](https://www.w3schools.com/tags/canvas_arc.asp)

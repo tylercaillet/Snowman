@@ -1,12 +1,18 @@
 # Snowman
 
+## Date 10/01/2002
+
+## Tyler Caillet
+
+### [GitHub](https://github.com/tylercaillet/Snowman) | [Trello](https://trello.com/b/aKWSHYKP/snowman) | [Snowman Game](tylers-snowman-game.surge.sh)
+
 ![Snowman](https://i.ytimg.com/vi/8dRFwpWuRDs/maxresdefault.jpg)
 
 ## Board Game Overview
 
 ### **_Description_**
 
-#### That's a total of nine mistakes. When you play Snowman, for the first incorrect answer the lower (and biggest) snowball is drawn, for the second the middle snowball is added, and for the third a snowball is added at the top (the head of the snowman). After that, the snowman gets two sticks (the arms), a top hat (like the one Frosty the Snowman wears), two eyes, and a sad face. Boom! Nine mistakes!
+#### That's a total of ten mistakes. When you play Snowman, for the first incorrect answer the lower (and biggest) snowball is drawn, for the second the middle snowball is added, and for the third a snowball is added at the top (the head of the snowman). After that, the snowman gets two sticks (the arms), a top hat (like the one Frosty the Snowman wears), two eyes, and a sad face. Boom! TEN mistakes!
 
 ---
 

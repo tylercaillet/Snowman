@@ -80,19 +80,19 @@ const categories = [
 
 const hints = [
   [
-    'another name for it is football',
+    'in some countries known as football, is to drive a soccer ball into the opposing teams goal in order to score a point',
     'There are typically nine innings ',
     'The Denver Broncos are a team of this sport',
     'Shaq used to be the best player in this sport',
-    'You have to hit a ball over the net in this sport',
+    'a racket sport that is played either individually against a single opponent (singles) or between two teams of two players each (doubles)',
     'This sport is similar to hockey, but its played on football field'
   ],
   [
     'Long string of noodles',
-    'hand-held sandwich',
+    'food item consisting of fillings—usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll.',
     'its got greens AND its healthy for you!',
-    'delicious slab of meat that is best cooked at medium tempurature',
-    'a classic picnic food item'
+    'thick cut of meat generally sliced across the muscle fibers, sometimes including a bone',
+    'food item typically consisting of vegetables, sliced cheese or meat, placed on or between slices of bread'
   ],
   [
     'looks best in cherry red spray paint and has about 711hp',
@@ -162,9 +162,9 @@ const guess = (event) => {
     return
   } else {
     if (life > 0) {
-      for (let j = 0; j < answer.length; j++) {
-        if (guessWord === answerArray[j]) {
-          wordDisplay[j] = guessWord
+      for (let i = 0; i < answer.length; i++) {
+        if (guessWord === answerArray[i]) {
+          wordDisplay[i] = guessWord
           console.log(guessWord)
           answerDisplay.innerHTML = wordDisplay.join(' ')
           winningCheck = wordDisplay.join('')

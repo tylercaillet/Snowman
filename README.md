@@ -4,7 +4,7 @@
 
 ## Tyler Caillet
 
-### [GitHub](https://github.com/tylercaillet/Snowman) | [Trello](https://trello.com/b/aKWSHYKP/snowman) | [Snowman Game](pretty-snowman.surge.sh)
+### [GitHub](https://github.com/tylercaillet/Snowman) | [Trello](https://trello.com/b/aKWSHYKP/snowman) | [Snowman Game](game-of-snowman.surge.sh)
 
 ![Snowman](https://i.ytimg.com/vi/8dRFwpWuRDs/maxresdefault.jpg)
 

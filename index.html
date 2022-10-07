@@ -1,20 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script defer src='script.js' charset='UTF-8'></script>
     <link rel='stylesheet' href='style.css' media='screen' title='no title'>
-    <script src='script.js' charset='UTF-8'></script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Board Game</title>
 </head>
 <body>
-    <h1>Snowman Board Game</h1>
-    <img src="https://cdn.abcotvs.com/dip/images/5096048_011819-cc-accuwx-perfect-snowman-tips-vid.jpg?w=1600" alt="" />
-    <h2> How to:</h2>
-    <p class='introduction'>
-        That's a total of nine mistakes. When you play Snowman, for the first incorrect answer the lower (and biggest) snowball is drawn, for the second the middle snowball is added, and for the third a snowball is added at the top (the head of the snowman). After that, the snowman gets two sticks (the arms), a top hat (like the one Frosty the Snowman wears), two eyes, and a sad face. Boom! Nine mistakes!
-    </p>
+    <div class="wrapper">
+        <h1>Snowman Board Game</h1>
+        <img src="https://cdn.abcotvs.com/dip/images/5096048_011819-cc-accuwx-perfect-snowman-tips-vid.jpg?w=1600" alt="" />
+        
+        <style>
+            body {
+                background-image: url('https://assets.jazziz.com/2018/12/winter-1024x595.jpg');
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+            }
+        </style>
+        <p class='introduction'>
+        </p>
+        Use the alphabet below to guess the word, or click hint to get a clue.
+      </p>
+    </div>
 
-</body>
+    <div class="wrapper">
+        <div class="container"></div>
+      <div class="alphabetButton" id="alphabetButtons"></div>
+      <p id="categoryName"></p>
+      <div id="hold"></div>
+      <p id="mylives"></p>
+      <p id="clue">Clue</p>
+      <canvas id="snowman">H</canvas
+      >
+      <div class="container">
+        <button class="btn-2" id="hint">Hint</button>
+        <button class="btn-2" id="reset">Play again</button>
+      </div>
+    </div>
+    <a href='gameplay.html'>
+        <button id='rules'>Click here for the instructions</button>
+        </a>
+    
+  </body>
 </html>
